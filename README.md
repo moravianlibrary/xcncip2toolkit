@@ -1,3 +1,8 @@
+> ## Repository abandoned
+>
+> Please do no use this code in production
+
+
 The [eXtensible Catalog (XC) project](http://www.extensiblecatalog.org) project is working to design and develop a set of open-source applications that will provide libraries with an alternative way to reveal their collections to library users.
 
 Please visit our project website at http://www.extensiblecatalog.org for a more complete overview of the eXtensible Catalog project and the software we are creating.
