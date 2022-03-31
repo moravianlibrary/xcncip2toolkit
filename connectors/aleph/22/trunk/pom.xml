@@ -20,7 +20,7 @@
 		<mavenVersion>3.0.4</mavenVersion>
 		<highJavaVersion>7.0</highJavaVersion> <!-- The 1.4 = 2.4; 1.5 = 5.0; 1.6 = 6.0 -->
 		<servletVersion>2.5</servletVersion>
-		<springVersion>2.5.6</springVersion>
+		<springVersion>5.3.18</springVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<toolkitVersion>1.2-SNAPSHOT</toolkitVersion>
 		<alephConnectorVersion>0.0.1-SNAPSHOT</alephConnectorVersion>
